@@ -1,0 +1,18 @@
+{
+  "lastChecks": {
+    "cls_news": 1713541800000,
+    "memory_maintenance": null,
+    "iran_monitor": 1776781987
+  },
+  "pendingAlerts": [
+    "周一开盘前检查美伊谈判是否有结果"
+  ],
+  "todaySummary": {
+    "date": "2026-04-20",
+    "majorUpdates": 0,
+    "latestNegotiationNews": "00:02 - 内塔尼亚胡称美以对伊朗行动未结束",
+    "negotiationStatus": "进行中，未有结果",
+    "netanhayuStatement": "以色列可能反对停火协议"
+  },
+  "lastStatus": "monitoring"
+}

@@ -1,0 +1,32 @@
+# 量化交易系统依赖
+
+# 数据处理
+pandas>=2.0.0
+numpy>=1.24.0
+
+# 数据源
+akshare>=1.13.0
+tushare>=1.4.0
+
+# 回测引擎
+backtrader>=1.9.78
+
+# 可视化
+matplotlib>=3.7.0
+plotly>=5.18.0
+
+# Web服务
+flask>=3.0.0
+fastapi>=0.110.0
+
+# 数据库
+sqlalchemy>=2.0.0
+sqlite3 (内置)
+
+# 工具
+python-dotenv>=1.0.0
+requests>=2.31.0
+schedule>=1.2.0
+
+# 日志
+loguru>=0.7.0

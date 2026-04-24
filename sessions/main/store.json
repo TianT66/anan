@@ -1,0 +1,25 @@
+{
+  "id": "main",
+  "name": "4/24收盘复盘",
+  "status": "active",
+  "createdAt": "2026-04-18T14:34:17.026Z",
+  "updatedAt": "2026-04-24T07:30:51.361Z",
+  "agents": [
+    {
+      "id": "agent_0xkqo5es",
+      "name": "Main Agent",
+      "role": "assistant",
+      "status": "idle",
+      "createdAt": "2026-04-18T14:34:17.026Z",
+      "model": "unknown",
+      "systemPrompt": ""
+    }
+  ],
+  "summary": {
+    "id": "summary_ozkr1r9f",
+    "title": "4/24收盘复盘",
+    "createdAt": "2026-04-18T14:34:17.026Z",
+    "file": "summary_ozkr1r9f.md"
+  },
+  "lastMessageCount": 100
+}

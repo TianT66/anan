@@ -1,0 +1,16 @@
+{
+  "best_reasons": [
+    "减仓止盈",
+    "止损"
+  ],
+  "worst_reasons": [
+    "减仓止盈",
+    "止损"
+  ],
+  "best_market": "bear",
+  "optimal_holding": "15-20",
+  "recommendations": [
+    "🔴 胜率低于40%，建议提高筛选门槛",
+    "🔴 平均亏损，检查止损执行"
+  ]
+}

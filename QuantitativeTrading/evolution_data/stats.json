@@ -1,0 +1,29 @@
+{
+  "total_trades": 6,
+  "win_count": 1,
+  "loss_count": 5,
+  "total_profit": -0.9919999999999999,
+  "win_rate": 0.16666666666666666,
+  "avg_profit": 0,
+  "avg_loss": 0,
+  "by_reason": {
+    "止损": {
+      "count": 5,
+      "profit": -0.9925999999999999,
+      "win": 0
+    },
+    "减仓止盈": {
+      "count": 1,
+      "profit": 0.0006,
+      "win": 1
+    }
+  },
+  "by_market": {
+    "bear": {
+      "count": 6,
+      "profit": -0.9919999999999999,
+      "win": 1
+    }
+  },
+  "by_holding_days": {}
+}
